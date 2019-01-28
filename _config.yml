@@ -1,0 +1,36 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://ltec5200.ray.pillers.us
+title: LTEC 5200
+email: RaymondPiller@my.unt.edu
+author: Raymond Piller
+description: > # "Write an awesome description for your new site here. 
+  <a href="http://unt.edu" target="_blank">University of North Texas</a>, <a href="http://lt.unt.edu" target="_blank">Department of Learning Technologies</a>.
+copyright: >
+  Copyright &copy; 2019 Raymond Piller. All Rights Reserved.
+credits: >
+  Created by Raymond Piller | <a href="http://vertigion.com" target="_blank">Vertigion</a>
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/VertigoRay
+  - title: github
+    url: https://github.com/VertigoRay
+  - title: linkedin
+    url: https://www.linkedin.com/in/vertigoray/
+  - title: facebook
+    url: http://facebook.com/VertigoRay
