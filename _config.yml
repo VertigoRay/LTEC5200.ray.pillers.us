@@ -285,6 +285,7 @@ plugins:
   - jekyll-gist
   - jekyll-include-cache
   - jekyll-paginate-v2
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-twitter-plugin
   - jemoji
@@ -295,6 +296,7 @@ whitelist:
   - jekyll-gist
   - jekyll-include-cache
   - jekyll-paginate-v2
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-twitter-plugin
   - jemoji
