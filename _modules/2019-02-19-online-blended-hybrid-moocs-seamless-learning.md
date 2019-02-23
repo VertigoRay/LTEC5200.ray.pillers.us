@@ -1,5 +1,5 @@
 ---
-title: Online/blended/hybrid/MOOCs/seamless learning
+title: Online/Blended/Hybrid/MOOCs/Seamless Learning
 ---
 MOOCs offer potential students an opportunity to try it before they buy it.
 Referring to a prospective degree at a prospective university.
