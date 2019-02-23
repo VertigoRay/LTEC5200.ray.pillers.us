@@ -14,7 +14,7 @@ Despite other opportunities, U.S. generals already consider it to be the next bi
 Michael Griffin presented his perspective at the Future of War 2018 conference, held in Washington, DC in April.
 Griffin, Undersecretary of Defense for Research and Engineering, hinted at the U.S.'s desire to militarize AI and machine learning (ML).
 "There might be an artificial intelligence arms race, but we're not yet in it," Griffin said.
-Regarding China and Russia, he added, "I think our adversaries–and they are adversaries–understand very well the possible future utility of machine learning, and I think it's time we did as well." (Griffin, 2018) 
+Regarding China and Russia, he added, "I think our adversaries–and they are adversaries–understand very well the possible future utility of machine learning, and I think it's time we did as well." (Griffin, 2018)
 
 {% include gallery %}
 

@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Modules"
-    url: /modules
+  - title: Modules
+    url: /modules/
+  - title: Military
+    url: /military/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : dark # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : dirt # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Immersive Learning Environments"
+title                    : "Artificial Intelligence Today"
 title_separator          : "-"
 name                     : "Raymond Piller"
 description              : "Using AI/ML/DL to Enhance Learning"
@@ -136,16 +136,16 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/VertigoRay"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/VertigoRay"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/VertigoRay"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://gitlab.com/VertigoRay"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
@@ -287,7 +287,6 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-twitter-plugin
   - jemoji
 
 # mimic GitHub Pages with --safe
@@ -298,7 +297,6 @@ whitelist:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-twitter-plugin
   - jemoji
 
 
@@ -341,6 +339,15 @@ compress_html:
 
 # Defaults
 defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
   # _posts
   - scope:
       path: ""
@@ -352,6 +359,7 @@ defaults:
       comments: # true
       share: true
       related: true
+  
   # _modules
   - scope:
       path: ""
@@ -360,9 +368,28 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
+  
+  # _military
+  - scope:
+      path: ""
+      type: military
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  
+  
 # Collections: https://jekyllrb.com/docs/collections/
 collections:
+  pages:
+    output: true
+    permalink: /:path/
+  
   modules:
     output: true
     permalink: /:collection/:path/
+  
+  military:
+    output: true
+    permalink: /:collection/:path/
+  
