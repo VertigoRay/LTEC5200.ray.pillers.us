@@ -9,7 +9,9 @@ Renown philosopher Nick Bostrom has published about the risk to humanity that AI
 The founder of Tesla and world renown philanthropist Elon Musk openly tweeted his fear that the competition for AI superiority at the national level will likely be the cause of World War III (Musk, 2017).
 Russian statesman and president, Vladimir Putin, stated that AI turns the tides of global power as we march through the 21st century (Vincent, 2017).
 
-{% twitter https://twitter.com/elonmusk/status/904638455761612800 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">China, Russia, soon all countries w strong computer science. Competition for AI superiority at national level most likely cause of WW3 imo.</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/904638455761612800?ref_src=twsrc%5Etfw">September 4, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Regardless of the concerns and rhetoric surrounding AI, it is not a weapon.
 AI is an enabler, much like the advancements of the wheel, electricity (Li, 2017), and the engine.
