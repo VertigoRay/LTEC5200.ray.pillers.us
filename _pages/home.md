@@ -30,7 +30,9 @@ feature_home:
     alt: "importance"
     title: "Why This is Important"
     excerpt: >
-      The future of AI is today. Only by experimenting, sharing, and collaborating can we responsibly take full advantage of the future.
+      The future of AI is today.
+      Only by experimenting, sharing, and collaborating can we responsibly take full advantage of the future. 
+      Join the dicussion in our [Virtual Living Room](https://atlas.sansar.com/experiences/vertigoray-0660/living-room).
     # url: "/docs/configuration/"
     # btn_class: "btn--primary"
     # btn_label: "Learn more"
