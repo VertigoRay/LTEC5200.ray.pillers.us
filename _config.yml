@@ -369,6 +369,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sidebar:
+        nav: modules
   
   # _military
   - scope:
@@ -379,6 +381,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sidebar:
+        nav: military
   
   
 # Collections: https://jekyllrb.com/docs/collections/

@@ -1,4 +1,3 @@
-# main links
 main:
   - title: Modules
     url: /modules/
@@ -6,9 +5,37 @@ main:
     url: /military/
   - title: About
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+
+modules:
+  - title: Incorporating Technology in Teaching and Learning
+    url: /modules/2019-01-27-incorporating-technology-teaching-learning/
+  - title: Social Media
+    url: /modules/2019-02-03-social-media/
+  - title: Mobile Learning
+    url: /modules/2019-02-08-mobile-learning/
+  - title: Creator Quick Start Overview
+    url: /modules/2019-02-14-creator-quick-start/
+  - title: Map the Learning
+    url: /modules/2019-02-15-map-the-learning/
+  - title: Visual Presentations, Representations and Multimedia Technologies
+    url: /modules/2019-02-16-visual-presentations-representations-multimedia-technologies/
+  - title: Online / Blended / Hybrid / MOOCs / Seamless Learning
+    url: /modules/2019-02-19-online-blended-hybrid-moocs-seamless-learning/
+
+
+military:
+  - title: Introduction
+    url: /military/2019-001-ai-in-us-military/
+  - title: Humanitarian Aid
+    url: /military/2019-002-humanitarian-aid/
+  - title: Advancements
+    url: /military/2019-003-advancements/
+  - title: Types
+    url: /military/2019-004-types/
+  - title: Reliability
+    url: /military/2019-005-reliability/
+  - title: Timeline
+    url: /military/2019-006-timeline/
+  - title: Conclusion
+    url: /military/2019-007-conclusion/

@@ -1,6 +1,7 @@
 ---
 title: About This Site
 author: true
+layout: collection
 ---
 ## Site Founded by Raymond Piller
 

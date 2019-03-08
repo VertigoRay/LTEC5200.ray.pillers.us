@@ -43,7 +43,7 @@ feature_military:
     url: "/military/2019-002-humanitarian-aid/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: //pbs.twimg.com/profile_images/1082975776113340416/-hQlqBJA_400x400.jpg
+  - image_path: //i.imgur.com/p1Ln71T.jpg
     alt: "Advancements"
     title: "Advancements"
     excerpt: >
